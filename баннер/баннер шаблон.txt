@@ -1,0 +1,10 @@
+type: banner
+
+<tr>
+  <td align="center">
+    <a href="{url}" target="_blank" title="{title}">
+      <img src="{img}" width="{width}" height="{height}"
+        border="0" alt="{alt}" style="display: block; width: 100%; max-width: {width}px; height: auto;" />
+    </a>
+  </td>
+</tr>
