@@ -1,3 +1,5 @@
+type: background-block
+
 <tr>
   <td align="center" bgcolor="{bgColor}" background="{bgImage}"
       style="background-image: url({bgImage}); background-position: center center; background-size: cover; background-repeat: no-repeat; background-color: {bgColor}; padding: 0; margin: 0; font-size: 0; line-height: normal;">
