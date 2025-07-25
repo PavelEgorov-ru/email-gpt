@@ -29,6 +29,21 @@
           }
         ]
       }
+    },
+    {
+      "type": "text-h1",
+      "data": {
+        "content": "Главный заголовок письма",
+        "color": "#212121",
+        "padding": "48px 40px",
+        "padding_mob": "24px 16px",
+        "size": "40px",
+        "height": "48px",
+        "size_mob": "28px",
+        "height_mob": "36px",
+        "transform": "uppercase",
+        "vertical-position": "top"
+      }
     }
   ]
 }

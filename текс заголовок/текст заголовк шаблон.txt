@@ -1,0 +1,21 @@
+type: text-h1
+
+
+@media screen and (max-width: 425px) {
+  .padding-body-mb {
+    padding: {padding_mob} !important;
+  }
+
+  .bg-banner_font-mb {
+    font-size: {size_mob} !important;
+    line-height: {height_mob} !important;
+  }
+}
+
+
+<tr>
+  <td class="padding-body-mb bg-banner_font-mb font-montserrat-bold" valign="{vertical-position} (top, middle или bottom)"
+    style="padding: {padding}; font-family: Helvetica, Arial, serif; color: {color}; font-size: {size}; line-height: {height}; font-weight: 700; text-transform: {transform};">
+    {content}
+  </td>
+</tr>
